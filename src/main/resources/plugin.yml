@@ -1,0 +1,9 @@
+name: CustomDurability
+version: '${project.version}'
+main: megagrnyt.customdurability.CustomDurability
+api-version: 1.16
+depend: [ NBTAPI ]
+authors: [ MegaGrnYT ]
+commands:
+  customdurability:
+    permission: customdurability.admin
